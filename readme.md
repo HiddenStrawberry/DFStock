@@ -1,7 +1,7 @@
 #Eastmoney Stock Spider
 
 
-----------
+£¨½öÖ§³ÖPY2.7.13£©----------
 ÒÀÀµ¿â£º
 flask
 flask_wtf
