@@ -8,7 +8,6 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 from flask import Flask, render_template, session, redirect, url_for, flash
-from flask_bootstrap import Bootstrap
 import sys
 
 default_encoding = 'utf-8'
